@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+body{
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+     
+}
+.nav-bar .logo{
+   font-size: 10px;
+   width: 15%;
+   height: 20vh;
+   border-radius: 50%;
+   background-color: aquamarine;
+   margin: 20px;  
+   opacity: 0.6;
+}
+.nav-bar .logo h1{
+  text-align: center;
+  padding-top: 20px;
+  color: brown;
+}
+.nav-bar .logo h1 .headi{
+ color: blue;
+}
+.nav-bar ul{
+    display: flex;
+    padding-left: 28rem;
+    text-decoration: none;
+    padding-bottom: 50px;
+
+}
+.nav-bar ul li{
+    padding: 40px;
+    font-size: 1.2rem;
+    background-color: rgb(171, 171, 243);
+    width: 100%;
+    opacity: 0.6;
+    padding-bottom: 30px;
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+    
+
+}
+
+
